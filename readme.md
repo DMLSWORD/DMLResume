@@ -1,5 +1,7 @@
 # 技术美术工程师简历 TEST
 
+网址：https://dmlsword.github.io/DMLResume/
+
 ## 个人信息
 - 姓名：戴明良
 - 年龄：29岁
